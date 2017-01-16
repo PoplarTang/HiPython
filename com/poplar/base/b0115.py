@@ -35,3 +35,5 @@ birth = raw_input('you birth year: ')
 print birth < 2000
 print int(birth) < 2000
 
+age = int(raw_input('Your age?'))
+print 'Aha, ',age
