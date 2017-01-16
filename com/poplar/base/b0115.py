@@ -31,5 +31,7 @@ print len(arr)
 print range(10)
 
 birth = raw_input('you birth year: ')
+#将字符串转成int类型数据
 print birth < 2000
 print int(birth) < 2000
+
