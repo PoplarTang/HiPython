@@ -48,6 +48,8 @@ print m
 
 tupleList = (3,4,[2,4]);
 print tupleList
+map = {'aaa':23, 'vvv':12, tupleList:333}
+print map;
 
 
 
